@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 Working as a AI Engineer at FON 🔭
+- 🌱 Always learning and practicing is the key 🌱
+- 📫 How to reach me: carlosbilbao2@gmail.com or at any social media
+- 🥎🥎 Tennis and Padel Coach and player 🥎🥎
 <!--
 **Carlosbil/Carlosbil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
