@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats 📊
 
 <p align="center">
-  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=Carlosbil&show_icons=true&theme=radical" />
-  <img width="48%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosbil&theme=radical" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Carlosbil&show_icons=true&theme=radical" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosbil&theme=radical" />
 </p>
 
 <p align="center">
