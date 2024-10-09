@@ -43,6 +43,14 @@
 
 ---
 
+### 🐍 Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://github.com/Carlosbil/Carlosbil/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 🌍 Connect with Me 🌍
 
 <p>
@@ -73,5 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosbil&color=brightgreen&style=flat-square&label=PROFILE+VISITS" />
+  <img src="https://komarev.com/ghpvc/?username=Carlosbil&color=brightgreen&style=flat-square&label=PROFILE+VISITS" />
 </p>
