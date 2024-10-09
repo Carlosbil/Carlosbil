@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosbilbao&color=brightgreen&style=flat-square&label=PROFILE+VISITS" />
+  <img src="https://komarev.com/ghpvc/?username=carlosbil&color=brightgreen&style=flat-square&label=PROFILE+VISITS" />
 </p>
