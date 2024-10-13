@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=35&lines=Hi+there+%F0%9F%91%8B;Welcome+to+Carlos+Bilbao's+GitHub!;AI+Engineer+%7C+Tennis+%26+Padel+Coach)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200" height="100" />
 </p>
 
 ## 🔭 About Me 🔭
