@@ -60,7 +60,7 @@
   <a href="mailto:carlosbilbao2@gmail.com">
     <img src="https://img.shields.io/badge/Email-carlosbilbao2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/carlosbilbao">
+  <a href="https://www.linkedin.com/in/carlos-bilbao-lara/">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Bilbao-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/carlosbilbao">
