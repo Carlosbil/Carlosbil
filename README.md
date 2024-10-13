@@ -63,9 +63,6 @@
   <a href="https://www.linkedin.com/in/carlos-bilbao-lara/">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Bilbao-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/carlosbilbao">
-    <img src="https://img.shields.io/twitter/follow/carlosbilbao?style=for-the-badge&logo=twitter" />
-  </a>
 </p>
 
 <p align="center">
