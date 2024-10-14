@@ -8,7 +8,7 @@
 
 - 🚀 **AI Engineer** at **FON**
 - 🌱 *Always learning and practicing is the key* 
-- 📨 Reach me at **carlosbilbao2@gmail.com** or on social media 
+- 📨 Reach me at **carlosbilbao2@gmail.com** or on social media like
 - 🎾 **Tennis and Padel Coach and player** 
 
 <p align="center">
@@ -33,7 +33,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats 📊
 
 <p align="center">
@@ -45,7 +44,6 @@
 </p>
 
 ---
-
 ### 🐍 Contribution Snake 🐍
 
 <p align="center">
@@ -53,7 +51,6 @@
 </p>
 
 ---
-
 ### 🌍 Connect with Me 🌍
 
 <p>
