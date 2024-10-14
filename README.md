@@ -8,7 +8,7 @@
 
 - 🚀 **AI Engineer** at **FON**
 - 🌱 *Always learning and practicing is the key* 
-- 📨 Reach me at **carlosbilbao2@gmail.com** or on social media like
+- 📨 Reach me at **carlosbilbao2@gmail.com** or on social media
 - 🎾 **Tennis and Padel Coach and player** 
 
 <p align="center">
