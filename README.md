@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=35&duration=5000&lines=Carlos+Bilbao's+GitHub!;AI/ML+Engineer)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200" height="100" />
+  <img src="./assets/hero-light.svg#gh-light-mode-only" alt="Carlos Bilbao — AI/ML Engineer" width="100%" />
+  <img src="./assets/hero-dark.svg#gh-dark-mode-only" alt="Carlos Bilbao — AI/ML Engineer" width="100%" />
 </p>
 
 ## 🔭 About Me 🔭
