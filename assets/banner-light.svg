@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Carlos Bilbao — AI and Software Lead</title>
+<desc id="desc">Terminal-style profile banner</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6f8fa"/><stop offset="1" stop-color="#eef4ff"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#d0d7de" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="282" rx="15" fill="#ffffff" stroke="#d8dee4"/>
+<circle cx="58" cy="52" r="7" fill="#cf222e"/><circle cx="82" cy="52" r="7" fill="#bf8700"/><circle cx="106" cy="52" r="7" fill="#1a7f37"/>
+<text x="600" y="58" text-anchor="middle" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">profile.sh — live</text>
+<text x="64" y="108" fill="#1a7f37" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">carlos@ai:~$</text>
+<text x="224" y="108" fill="#24292f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18">./profile.sh --live</text>
+<text x="64" y="164" fill="url(#accent)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="38" font-weight="700">Carlos Bilbao</text>
+<text x="64" y="202" fill="#24292f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="21">AI &amp; Software Lead · AI Engineer · PhD Candidate</text>
+<text x="64" y="250" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">focus</text>
+<text x="130" y="250" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">Agents · MCP · RAG · Distributed AI</text>
+<text x="64" y="280" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">status</text>
+<text x="130" y="280" fill="#1a7f37" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">building systems that ship_</text>
+<g transform="translate(880 142)">
+  <circle cx="105" cy="46" r="86" fill="#0969da" opacity=".05"/>
+  <circle cx="105" cy="46" r="62" fill="none" stroke="#0969da" opacity=".2"/>
+  <path d="M58 52L86 80l66-72" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 112h170" stroke="#d0d7de" stroke-width="2"/>
+  <text x="150" y="145" text-anchor="middle" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">MADRID · SPAIN</text>
+</g>
+</svg>
