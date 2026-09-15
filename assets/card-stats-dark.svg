@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-label="Carlos Bilbao GitHub activity">
+<defs><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+<rect x="1" y="1" width="758" height="228" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="32" y="42" fill="#f0f6fc" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">GITHUB SIGNAL</text>
+<circle cx="660" cy="35" r="5" fill="#3fb950"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle><text x="674" y="40" fill="#3fb950" font-family="ui-monospace,Consolas,monospace" font-size="13">LIVE</text>
+<rect x="32" y="58" width="696" height="3" rx="2" fill="url(#line)"><animate attributeName="width" values="0;696" dur="1.2s" fill="freeze"/></rect>
+<g font-family="ui-monospace,Consolas,monospace" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1" begin=".35s" dur=".7s" fill="freeze"/>
+<text x="145" y="124" fill="#58a6ff" font-size="38" font-weight="700">50</text><text x="145" y="153" fill="#8b949e" font-size="13">PUBLIC REPOSITORIES</text>
+<text x="380" y="124" fill="#a371f7" font-size="38" font-weight="700">327</text><text x="380" y="153" fill="#8b949e" font-size="13">CONTRIBUTIONS · LAST YEAR</text>
+<text x="615" y="124" fill="#3fb950" font-size="38" font-weight="700">2019</text><text x="615" y="153" fill="#8b949e" font-size="13">BUILDING ON GITHUB SINCE</text></g>
+<path d="M45 194 C110 176 145 211 205 190 S300 175 350 195 S445 210 500 184 S610 178 715 193" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;0" begin=".8s" dur="1.5s" fill="freeze"/></path>
+</svg>
