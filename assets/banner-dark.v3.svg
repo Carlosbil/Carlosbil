@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Carlos Bilbao — Production AI Engineer</title><desc id="desc">Animated terminal profile with an agent network</desc>
+<defs>
+<linearGradient id="shell" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111b2e"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#58a6ff"/><stop offset=".55" stop-color="#a371f7"/><stop offset="1" stop-color="#3fb950"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#shell)"/><rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#30363d" stroke-width="2"/>
+<rect x="26" y="22" width="1148" height="316" rx="16" fill="#090d13" stroke="#21262d"/>
+<circle cx="56" cy="50" r="7" fill="#ff7b72"/><circle cx="80" cy="50" r="7" fill="#d29922"/><circle cx="104" cy="50" r="7" fill="#3fb950"/>
+<text x="600" y="56" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">profile.sh — live</text>
+<rect x="27" y="70" width="1146" height="2" fill="#58a6ff" opacity=".12"><animate attributeName="y" values="70;326;70" dur="7s" repeatCount="indefinite"/></rect>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" fill="freeze"/><text x="58" y="103" fill="#3fb950" font-size="17">carlos@ai:~$</text><text x="212" y="103" fill="#c9d1d9" font-size="17">./profile.sh --live</text></g>
+<text x="58" y="157" fill="url(#accent)" filter="url(#glow)" font-size="39" font-weight="700" opacity="0">Carlos Bilbao<animate attributeName="opacity" values="0;1" begin=".25s" dur=".65s" fill="freeze"/></text>
+<text x="58" y="191" fill="#c9d1d9" font-size="19" opacity="0">AI &amp; Software Lead · Production AI Engineer<animate attributeName="opacity" values="0;1" begin=".65s" dur=".55s" fill="freeze"/></text>
+<g font-size="15" opacity="0"><animate attributeName="opacity" values="0;1" begin="1s" dur=".6s" fill="freeze"/>
+<text x="58" y="234" fill="#484f58">01</text><text x="92" y="234" fill="#8b949e">focus</text><text x="170" y="234" fill="#58a6ff">Agents · MCP · RAG · Context Engineering</text>
+<text x="58" y="265" fill="#484f58">02</text><text x="92" y="265" fill="#8b949e">systems</text><text x="170" y="265" fill="#a371f7">Cloud · APIs · Distributed Architectures</text>
+<text x="58" y="296" fill="#484f58">03</text><text x="92" y="296" fill="#8b949e">research</text><text x="170" y="296" fill="#3fb950">Distributed Neuroevolution</text></g>
+<rect x="416" y="280" width="9" height="19" fill="#3fb950"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+<g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 9"><path d="M930 183L806 112"/><path d="M930 183L1061 112"/><path d="M930 183L806 266"/><path d="M930 183L1061 266"/><animate attributeName="stroke-dashoffset" values="0;-64" dur="4s" repeatCount="indefinite"/></g>
+<circle cx="930" cy="183" r="70" fill="#58a6ff" opacity=".04"><animate attributeName="r" values="62;76;62" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="183" r="46" fill="#111b2e" stroke="#58a6ff" stroke-width="2"><animate attributeName="stroke-opacity" values=".35;1;.35" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="930" y="178" text-anchor="middle" fill="#58a6ff" font-size="15" font-weight="700">AGENT</text><text x="930" y="198" text-anchor="middle" fill="#8b949e" font-size="11">ORCHESTRATOR</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin=".8s" dur=".45s" fill="freeze"/><rect x="750" y="88" width="112" height="48" rx="12" fill="#161b22" stroke="#a371f7"/><text x="806" y="117" text-anchor="middle" fill="#c9d1d9" font-size="14">MCP</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1s" dur=".45s" fill="freeze"/><rect x="1005" y="88" width="112" height="48" rx="12" fill="#161b22" stroke="#58a6ff"/><text x="1061" y="117" text-anchor="middle" fill="#c9d1d9" font-size="14">RAG</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.2s" dur=".45s" fill="freeze"/><rect x="750" y="242" width="112" height="48" rx="12" fill="#161b22" stroke="#3fb950"/><text x="806" y="271" text-anchor="middle" fill="#c9d1d9" font-size="14">TOOLS</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.4s" dur=".45s" fill="freeze"/><rect x="1005" y="242" width="112" height="48" rx="12" fill="#161b22" stroke="#a371f7"/><text x="1061" y="271" text-anchor="middle" fill="#c9d1d9" font-size="14">MEMORY</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 930 183" to="360 930 183" dur="7s" repeatCount="indefinite"/><circle cx="930" cy="103" r="5" fill="#3fb950" filter="url(#glow)"/></g>
+<text x="930" y="322" text-anchor="middle" fill="#484f58" font-size="11">PLAN · RETRIEVE · ACT · EVALUATE</text>
+</g></svg>
