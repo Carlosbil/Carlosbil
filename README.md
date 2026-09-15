@@ -1,18 +1,18 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=2">
-  <img src="assets/banner-dark.svg?v=2" width="100%" alt="Carlos Bilbao — AI and Software Lead">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v3.svg">
+  <img src="assets/banner-dark.v3.svg" width="100%" alt="Carlos Bilbao — AI and Software Lead">
 </picture>
 
 <br>
 
 <a href="https://github.com/Carlosbil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Software+Lead;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Distributed+AI;Building+AI+systems+that+actually+ship">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=900&lines=AI+%26+Software+Lead;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Distributed+AI;Building+AI+systems+that+actually+ship">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Software+Lead;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Distributed+AI;Building+AI+systems+that+actually+ship" alt="Animated introduction">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Production+AI+%C2%B7+Agentic+Systems+%C2%B7+Cloud;MCP+%C2%B7+RAG+%C2%B7+Context+Engineering;Building+AI+systems+that+actually+ship">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=900&lines=Production+AI+%C2%B7+Agentic+Systems+%C2%B7+Cloud;MCP+%C2%B7+RAG+%C2%B7+Context+Engineering;Building+AI+systems+that+actually+ship">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Production+AI+%C2%B7+Agentic+Systems+%C2%B7+Cloud;MCP+%C2%B7+RAG+%C2%B7+Context+Engineering;Building+AI+systems+that+actually+ship" alt="Animated introduction">
   </picture>
 </a>
 
@@ -49,18 +49,27 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 
 <div align="center">
 
-## my perfect stack
+## production AI stack
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,fastapi,flask,spring,azure,aws,docker,kubernetes,postgres,mongodb,git,github,vscode&perline=9" alt="Tech stack">
+<img src="https://img.shields.io/badge/Agentic_AI-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="Agentic AI">
+<img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=58A6FF" alt="MCP">
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=58A6FF" alt="RAG">
+<img src="https://img.shields.io/badge/Context_Engineering-0d1117?style=for-the-badge&logoColor=A371F7" alt="Context Engineering">
+
+<br>
+
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=A371F7" alt="LangGraph">
+<img src="https://img.shields.io/badge/Azure_AI-0d1117?style=flat-square&logo=microsoftazure&logoColor=58A6FF" alt="Azure AI">
+<img src="https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=58A6FF" alt="GitHub Copilot">
+<img src="https://img.shields.io/badge/Distributed_Systems-0d1117?style=flat-square&logo=apachekafka&logoColor=3FB950" alt="Distributed Systems">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=openai&logoColor=58A6FF" alt="AI Agents">
-<img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logoColor=58A6FF" alt="MCP">
-<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=58A6FF" alt="RAG">
-<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=58A6FF" alt="LangGraph">
-<img src="https://img.shields.io/badge/Azure_AI-0d1117?style=flat-square&logo=microsoftazure&logoColor=58A6FF" alt="Azure AI">
-<img src="https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=58A6FF" alt="GitHub Copilot">
+<img src="https://skillicons.dev/icons?i=python,fastapi,azure,aws,docker,kubernetes,kafka,postgres,mongodb,java,spring,ts,git,github,githubactions,vscode,linux&perline=9" alt="Production AI engineering stack">
+
+<br><br>
+
+<sub>AI systems · backend · cloud · data · distributed infrastructure</sub>
 
 </div>
 
