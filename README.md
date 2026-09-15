@@ -1,10 +1,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Carlos Bilbao — AI and Software Lead">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=2">
+  <img src="assets/banner-dark.svg?v=2" width="100%" alt="Carlos Bilbao — AI and Software Lead">
 </picture>
+
+<br>
+
+<a href="https://github.com/Carlosbil">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Software+Lead;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Distributed+AI;Building+AI+systems+that+actually+ship">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=900&lines=AI+%26+Software+Lead;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Distributed+AI;Building+AI+systems+that+actually+ship">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Software+Lead;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Distributed+AI;Building+AI+systems+that+actually+ship" alt="Animated introduction">
+  </picture>
+</a>
 
 <br>
 
@@ -65,18 +75,18 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="440" alt="AI and software skill radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=2">
+  <img src="assets/radar-dark.svg?v=2" width="440" alt="AI and software skill radar">
 </picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="440" alt="Technology skill radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=2">
+  <img src="assets/radar-langs-dark.svg?v=2" width="440" alt="Technology skill radar">
 </picture>
 
 </td>
