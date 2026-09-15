@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="390" viewBox="0 0 500 390" role="img" aria-label="Technology skill radar">
+<rect width="500" height="390" rx="18" fill="#0d1117" stroke="#30363d"/>
+<text x="250" y="34" text-anchor="middle" fill="#f0f6fc" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">TECHNOLOGY SIGNAL</text>
+<g transform="translate(250 210)">
+  <g fill="none" stroke="#30363d"><polygon points="0,-130 112.6,-65 112.6,65 0,130 -112.6,65 -112.6,-65"/><polygon points="0,-97.5 84.4,-48.8 84.4,48.8 0,97.5 -84.4,48.8 -84.4,-48.8"/><polygon points="0,-65 56.3,-32.5 56.3,32.5 0,65 -56.3,32.5 -56.3,-32.5"/><polygon points="0,-32.5 28.1,-16.3 28.1,16.3 0,32.5 -28.1,16.3 -28.1,-16.3"/></g>
+  <g stroke="#21262d"><line y2="-130"/><line x2="112.6" y2="-65"/><line x2="112.6" y2="65"/><line y2="130"/><line x2="-112.6" y2="65"/><line x2="-112.6" y2="-65"/></g>
+  <polygon points="0,-123.5 95.7,-55.3 90.1,52 0,104 -84.4,48.8 -95.7,-55.3" fill="#a371f7" fill-opacity=".25" stroke="#a371f7" stroke-width="3"/>
+  <g fill="#a371f7"><circle cy="-123.5" r="4"/><circle cx="95.7" cy="-55.3" r="4"/><circle cx="90.1" cy="52" r="4"/><circle cy="104" r="4"/><circle cx="-84.4" cy="48.8" r="4"/><circle cx="-95.7" cy="-55.3" r="4"/></g>
+</g>
+<g fill="#8b949e" font-family="ui-monospace,Consolas,monospace" font-size="13">
+<text x="250" y="65" text-anchor="middle">PYTHON</text><text x="390" y="136">JAVA</text><text x="390" y="300">TYPESCRIPT</text><text x="250" y="370" text-anchor="middle">DATA / DATABASES</text><text x="110" y="300" text-anchor="end">DOCKER / K8S</text><text x="110" y="136" text-anchor="end">CLOUD</text>
+</g></svg>
