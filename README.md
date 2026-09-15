@@ -77,7 +77,7 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=2">
-  <img src="assets/radar-dark.svg?v=2" width="440" alt="AI and software skill radar">
+  <img src="assets/radar-dark.svg?v=2" width="400" alt="AI and software skill radar">
 </picture>
 
 </td>
@@ -86,7 +86,7 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=2">
-  <img src="assets/radar-langs-dark.svg?v=2" width="440" alt="Technology skill radar">
+  <img src="assets/radar-langs-dark.svg?v=2" width="400" alt="Technology skill radar">
 </picture>
 
 </td>
@@ -101,12 +101,15 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 
 ## numbers matter? sometimes they do.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlosbil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Carlos's GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbil&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=1">
+  <img src="assets/card-stats-dark.svg?v=1" width="760" alt="Carlos Bilbao GitHub activity snapshot">
+</picture>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosbil&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
+<sub>Snapshot · September 2026</sub>
 
 </div>
 
