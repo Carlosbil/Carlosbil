@@ -2,7 +2,7 @@
 <defs><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
 <rect x="1" y="1" width="758" height="228" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <text x="32" y="42" fill="#f0f6fc" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">GITHUB SIGNAL</text>
-<circle cx="660" cy="35" r="5" fill="#3fb950"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle><text x="674" y="40" fill="#3fb950" font-family="ui-monospace,Consolas,monospace" font-size="13">LIVE</text>
+<circle cx="592" cy="35" r="5" fill="#3fb950"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle><text x="606" y="40" fill="#3fb950" font-family="ui-monospace,Consolas,monospace" font-size="13">SNAPSHOT · SEP 2026</text>
 <rect x="32" y="58" width="696" height="3" rx="2" fill="url(#line)"><animate attributeName="width" values="0;696" dur="1.2s" fill="freeze"/></rect>
 <g font-family="ui-monospace,Consolas,monospace" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1" begin=".35s" dur=".7s" fill="freeze"/>
 <text x="145" y="124" fill="#58a6ff" font-size="38" font-weight="700">50</text><text x="145" y="153" fill="#8b949e" font-size="13">PUBLIC REPOSITORIES</text>
