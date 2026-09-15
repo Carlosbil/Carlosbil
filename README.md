@@ -102,9 +102,9 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 ## numbers matter? sometimes they do.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=2">
-  <img src="assets/card-stats-dark.svg?v=2" width="760" alt="Carlos Bilbao GitHub activity snapshot">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=3">
+  <img src="assets/card-stats-dark.svg?v=3" width="760" alt="Carlos Bilbao GitHub activity snapshot">
 </picture>
 
 <br>
