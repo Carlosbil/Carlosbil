@@ -75,18 +75,18 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=2">
-  <img src="assets/radar-dark.svg?v=2" width="400" alt="AI and software skill radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=3">
+  <img src="assets/radar-dark.svg?v=3" width="400" alt="AI and software skill radar">
 </picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=2">
-  <img src="assets/radar-langs-dark.svg?v=2" width="400" alt="Technology skill radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=3">
+  <img src="assets/radar-langs-dark.svg?v=3" width="400" alt="Technology skill radar">
 </picture>
 
 </td>
@@ -102,9 +102,9 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 ## numbers matter? sometimes they do.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=1">
-  <img src="assets/card-stats-dark.svg?v=1" width="760" alt="Carlos Bilbao GitHub activity snapshot">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg?v=2">
+  <img src="assets/card-stats-dark.svg?v=2" width="760" alt="Carlos Bilbao GitHub activity snapshot">
 </picture>
 
 <br>
