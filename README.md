@@ -18,6 +18,8 @@
 
 <br>
 
+### I design and ship AI systems that connect models, knowledge and real-world tools.
+
 <a href="https://www.linkedin.com/in/carlos-bilbao-lara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:carlosbilbao2@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"></a>&nbsp;
 <a href="https://github.com/Carlosbil"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
@@ -30,22 +32,35 @@
 
 ---
 
-## This is me :)
+## this is me :)
 
 Hi, I'm **Carlos**, an AI engineer and software lead building from Madrid, Spain 🇪🇸.
 
-I like building AI systems that go beyond the *"cool demo"* stage and actually survive contact with production.
+- 🚀 **AI & Software Lead at Lognext** — production AI, architecture and AI-assisted engineering.
+- 🤖 Building **agentic systems** with MCP, RAG, context engineering, evaluation and tool use.
+- 🛠️ Backend and platform-minded: **Python, Java, APIs, distributed systems, Docker, Kubernetes and cloud**.
+- 🧬 **PhD Candidate in Artificial Intelligence**, researching distributed neuroevolution.
+- 🎾 Off-screen you'll usually find me playing **tennis or padel**.
 
-- 🚀 **AI & Software Lead at Lognext**, working across AI enablement, software architecture and AI-assisted development.
-- 🤖 Focused on **AI agents, MCP, RAG and LLM-powered systems**.
-- 🧩 I design **agentic architectures**, from tool-using agents to multi-agent and enterprise AI integrations.
-- 🛠️ Software engineer at heart: **Python, Java, TypeScript, APIs, distributed systems, Docker, Kubernetes and Cloud**.
-- 🧬 **PhD Candidate in Artificial Intelligence**, researching distributed neuroevolution and evolutionary neural architectures.
-- ⚡ Interested in how **AI changes software engineering itself**: coding agents, context engineering, MCP servers and developer productivity.
-- 🎾 When I'm not building or researching something, I'm probably playing **tennis or padel**.
-- 💬 Talk to me about **AI Agents, MCP, RAG, distributed AI or neuroevolution** and you'll have my full attention.
+> I care about the part after the demo: reliability, integration, observability and measurable value.
 
 <br>
+
+<div align="center">
+
+## how I build AI systems
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/architecture-light.v1.svg">
+  <img src="assets/architecture-dark.v1.svg" width="100%" alt="Production AI architecture: intent, agent runtime, context, tools and production systems">
+</picture>
+
+<sub>Intent → reasoning → context & capabilities → production value</sub>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -65,13 +80,55 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,azure,aws,docker,kubernetes,kafka,postgres,mongodb,java,spring,ts,git,github,githubactions,vscode,linux&perline=9" alt="Production AI engineering stack">
+<img src="https://skillicons.dev/icons?i=python,fastapi,azure,aws,docker,kubernetes,kafka,postgres,mongodb,java,spring,git,github,githubactions,linux&perline=8" alt="Production AI engineering stack">
 
 <br><br>
 
 <sub>AI systems · backend · cloud · data · distributed infrastructure</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+## selected work
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [Neuroevolution IPYNBs](https://github.com/Carlosbil/Neuroevolution-ipynbs)
+
+Hybrid neuroevolution research for **Parkinson's voice classification** with evolvable Conv1D networks, parallel 5-fold validation and multi-objective Pareto selection.
+
+`Python · PyTorch · NEAT · Research`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Distributed Neuroevolution](https://github.com/Carlosbil/Neuroevolution)
+
+A Kafka-based distributed system that evolves, trains and evaluates neural architectures through independent services and workers.
+
+`Python · Kafka · Docker · Distributed AI`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎮 [Agent Files Game](https://github.com/Carlosbil/agent-files-game) · in progress
+
+A gamified, installable learning experience for understanding AI workflows: agents, skills, hooks, instructions, memory, context and token cost.
+
+`Agentic AI · Developer Education · Flutter · Product`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,87 +187,25 @@ I like building AI systems that go beyond the *"cool demo"* stage and actually s
 
 </div>
 
-I'm currently pursuing a **PhD in Artificial Intelligence**, researching **distributed neuroevolution**.
-
-The idea that keeps me busy is fairly simple:
-
-> Can neural architectures evolve efficiently across distributed infrastructure?
-
-My research interests currently revolve around:
-
-- 🧬 **Neuroevolution & NEAT**
-- 🧠 **Neural Architecture Search**
-- 🔀 **Evolutionary algorithms**
-- 🌐 **Distributed AI**
-- 📡 **Event-driven architectures**
-- ⚙️ **Kafka-based distributed computation**
+My PhD work explores whether neural architectures can evolve efficiently across distributed infrastructure.
 
 ```text
-population
-    │
-    ├──► mutate()
-    │
-    ├──► crossover()
-    │
-    └──► evaluate()
-              │
-              ▼
-      distributed workers
-              │
-              ▼
-          fitness
-              │
-              ▼
-      next generation
+population ──► mutate / crossover ──► distributed workers
+     ▲                                        │
+     └──────────── next generation ◄── fitness┘
 ```
+
+**Current research signals:** neuroevolution · NEAT · neural architecture search · distributed AI · event-driven systems
 
 ---
 
 <div align="center">
 
-## currently obsessed with
+### Let's build AI that survives contact with production.
 
-</div>
+Open to conversations about **production AI, agentic architecture, MCP ecosystems and distributed AI research**.
 
-```python
-focus = {
-    "agentic_ai": [
-        "AI Agents",
-        "Tool Use",
-        "Multi-Agent Systems",
-        "Agent Orchestration",
-        "Memory"
-    ],
-    "context": [
-        "RAG",
-        "Context Engineering",
-        "Knowledge Systems",
-        "Evaluation"
-    ],
-    "integration": [
-        "Model Context Protocol",
-        "Enterprise APIs",
-        "Developer Tools",
-        "Cloud Services"
-    ],
-    "research": [
-        "Neuroevolution",
-        "NEAT",
-        "Distributed AI"
-    ]
-}
-
-while True:
-    learn()
-    build()
-    break_things()
-    understand_why()
-    build_better()
-```
-
----
-
-<div align="center">
+<br>
 
 <sub>` Build · Break · Learn · Repeat · @Carlosbil `</sub>
 
