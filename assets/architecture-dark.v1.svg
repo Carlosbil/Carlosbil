@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Production AI architecture</title>
+<desc id="desc">Animated flow from product intent through an agent runtime to context, tools and production systems.</desc>
+<style>
+  .bg{fill:#0d1117}.panel{fill:#111820;stroke:#30363d;stroke-width:1.5}.node{fill:#161b22;stroke:#30363d;stroke-width:1.5}.hot{fill:#111b29;stroke:#58a6ff;stroke-width:2}.violet{fill:#181425;stroke:#a371f7;stroke-width:1.5}
+  .t{font:600 16px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e6edf3}.s{font:500 12px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#8b949e}.label{font:700 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:1.6px;fill:#58a6ff}
+  .flow{fill:none;stroke:#58a6ff;stroke-width:2;stroke-dasharray:7 10;animation:dash 2s linear infinite}.flow2{fill:none;stroke:#a371f7;stroke-width:2;stroke-dasharray:5 9;animation:dash 2.4s linear infinite reverse}.pulse{animation:pulse 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  @keyframes dash{to{stroke-dashoffset:-34}}@keyframes pulse{0%,100%{opacity:.62;transform:scale(.96)}50%{opacity:1;transform:scale(1.04)}}
+</style>
+<rect class="bg" width="1200" height="390" rx="18"/>
+<rect class="panel" x="24" y="24" width="1152" height="342" rx="14"/>
+<circle cx="48" cy="48" r="5" fill="#ff7b72"/><circle cx="66" cy="48" r="5" fill="#d29922"/><circle cx="84" cy="48" r="5" fill="#3fb950"/>
+<text class="s" x="106" y="53">carlos@ai:~$ ./ship-intelligence --production</text>
+<text class="label" x="60" y="102">01 · INTENT</text>
+<rect class="node" x="60" y="120" width="205" height="92" rx="13"/>
+<text class="t" x="162" y="157" text-anchor="middle">Product problem</text><text class="s" x="162" y="183" text-anchor="middle">users · outcomes · constraints</text>
+<path class="flow" d="M265 166 H376"/>
+<circle r="5" fill="#58a6ff"><animateMotion dur="2s" repeatCount="indefinite" path="M265 166 H376"/></circle>
+<text class="label" x="395" y="102">02 · REASON</text>
+<rect class="hot pulse" x="376" y="120" width="300" height="92" rx="13"/>
+<text class="t" x="526" y="154" text-anchor="middle">Agent runtime</text><text class="s" x="526" y="179" text-anchor="middle">plan · route · evaluate · recover</text>
+<circle cx="405" cy="166" r="6" fill="#3fb950"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite"/></circle>
+<path class="flow" d="M676 166 H760"/>
+<circle r="5" fill="#58a6ff"><animateMotion dur="1.7s" repeatCount="indefinite" path="M676 166 H760"/></circle>
+<text class="label" x="780" y="102">03 · CONNECT</text>
+<rect class="violet" x="760" y="120" width="380" height="92" rx="13"/>
+<text class="t" x="950" y="154" text-anchor="middle">Context &amp; capabilities</text><text class="s" x="950" y="179" text-anchor="middle">MCP · RAG · memory · tools · guardrails</text>
+<path class="flow2" d="M950 212 V260 M950 260 H235 M950 260 H965"/>
+<circle r="5" fill="#a371f7"><animateMotion dur="2.8s" repeatCount="indefinite" path="M950 212 V260 H235"/></circle>
+<circle r="5" fill="#a371f7"><animateMotion dur="2.1s" repeatCount="indefinite" path="M950 212 V260 H965"/></circle>
+<text class="label" x="60" y="298">04 · SHIP</text>
+<rect class="node" x="60" y="312" width="220" height="34" rx="8"/><text class="s" x="170" y="334" text-anchor="middle">APIs &amp; services</text>
+<rect class="node" x="302" y="312" width="220" height="34" rx="8"/><text class="s" x="412" y="334" text-anchor="middle">Cloud &amp; platform</text>
+<rect class="node" x="544" y="312" width="220" height="34" rx="8"/><text class="s" x="654" y="334" text-anchor="middle">Data &amp; events</text>
+<rect class="node" x="786" y="312" width="220" height="34" rx="8"/><text class="s" x="896" y="334" text-anchor="middle">Observability</text>
+<rect class="hot" x="1028" y="312" width="112" height="34" rx="8"/><text class="s" x="1084" y="334" text-anchor="middle">value ✓</text>
+</svg>
