@@ -120,11 +120,11 @@ A Kafka-based distributed system that evolves, trains and evaluates neural archi
 <tr>
 <td colspan="2" valign="top">
 
-### 🎮 [Agent Files Game](https://github.com/Carlosbil/agent-files-game) · in progress
+### 🎮 [AI for Geometry Dash](https://github.com/Carlosbil/AI_FOR_Geometry_dash)
 
-A gamified, installable learning experience for understanding AI workflows: agents, skills, hooks, instructions, memory, context and token cost.
+A real-time agent that learns to play **Geometry Dash** from screen captures using a CNN, Deep Q-Learning and an ε-greedy policy.
 
-`Agentic AI · Developer Education · Flutter · Product`
+`Python · PyTorch · CUDA · Deep Q-Learning`
 
 </td>
 </tr>
